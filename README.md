@@ -9,9 +9,7 @@ I'm a Brazilian guy passionate about tech, Data Science & AI with Python, SQL, a
 - I’m currently studying Systems Analysis and Development
 - I’m currently delving into all these topics above as my field of specialization
 - Hobbies: Reading, Documentaries, watching films, walking in the park and learning new languages
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="50" height="30">
-🧬💡🏳‍🌈
+- 📫 Reach me at: alcantaracaio99@gmail.com
 
 
 

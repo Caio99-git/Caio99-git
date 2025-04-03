@@ -11,7 +11,7 @@ Currently seeking internship opportunities to apply my skills, learn, and grow a
 - 🎓 **Education**: I'm studying Systems Analysis and Development.  
 - 💡 **Specialization**: Exploring the fascinating worlds of Data Science, AI, and Machine Learning.  
 - 🎨 **Hobbies**: Reading, watching documentaries & films, walking in parks, and learning new languages.  
-- 🌎 **Languages**: Fluent in Portuguese and English. Learning German and French.
+- 🌎 **Languages**: Fluent in Portuguese and English. Learning German.
 
 ---
 

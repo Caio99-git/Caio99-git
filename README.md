@@ -37,7 +37,7 @@ Currently seeking internship opportunities to apply my skills, learn, and grow a
 ---
 
 ### 💡 Fun Fact:
-I enjoy combining my passion for tech with my love for storytelling through data-driven insights!
+I enjoy combining my passion for tech with my thirst for knowledge and my love for storytelling through data-driven insights!
 
 
 
